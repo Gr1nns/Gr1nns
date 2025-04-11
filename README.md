@@ -10,4 +10,5 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gr1nns&theme=github_dark)
 
+[![Seu Nome no WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Gr1nns)](https://github.com/anuraghazra/github-readme-stats)
 
