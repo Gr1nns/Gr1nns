@@ -5,6 +5,6 @@
 - ⚡ Fun fact: I'm a real person
 
 
-![Gr1nns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1nns&theme=highcontrast_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1nns&show_icons=true&theme=highcontrast)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=chartreuse-dark)
 
