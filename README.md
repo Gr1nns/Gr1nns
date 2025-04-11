@@ -3,5 +3,7 @@
 - 🌱 I’m currently learning c++
 - 📫 How to reach me in my github
 - ⚡ Fun fact: I'm a real person
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
 
+
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
