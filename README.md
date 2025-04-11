@@ -9,4 +9,4 @@
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=chartreuse-dark)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=REYNER_GABRIEL_DITTERT_PEREIRA)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gr1nns)](https://github.com/anuraghazra/github-readme-stats)
