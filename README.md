@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning c++
 - 📫 How to reach me in my github
-- ⚡ Fun fact: I'm a real person
+- ⚡ Fun fact: I am not in captivity
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1nns&show_icons=true&theme=highcontrast)
