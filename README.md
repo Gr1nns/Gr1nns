@@ -9,4 +9,4 @@
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=chartreuse-dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&hide_progress=true)
