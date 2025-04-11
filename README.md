@@ -6,5 +6,5 @@
 
 
 ![Gr1nns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1nns&theme=dark&show_icons=true)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=chartreuse-dark)
 
