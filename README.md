@@ -9,5 +9,7 @@
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=chartreuse-dark)
 
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gr1nns&theme=vue)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gr1nns&theme=default)
+
+
 
