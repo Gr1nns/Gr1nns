@@ -7,3 +7,4 @@
 
 ![Gr1nns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1nns&theme=dark&show_icons=true)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=chartreuse-dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
