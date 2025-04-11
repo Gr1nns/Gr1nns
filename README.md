@@ -10,7 +10,6 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gr1nns&theme=github_dark)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gr1nns&v=2)](https://github.com/anuraghazra/github-readme-stats)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gr1nns&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
