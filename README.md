@@ -7,4 +7,4 @@
 
 ![Gr1nns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1nns&theme=THEME_transparent_icons=true)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=chartreuse-dark_icons=true)
