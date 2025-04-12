@@ -9,5 +9,3 @@
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=chartreuse-dark)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gr1nns&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gr1nns&theme=highcontrast&v=04112345)](https://github.com/anuraghazra/github-readme-stats)
