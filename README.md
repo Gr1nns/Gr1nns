@@ -11,4 +11,4 @@
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gr1nns&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gr1nns&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
