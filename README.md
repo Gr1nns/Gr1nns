@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gr1nns
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning c++
-- 📫 How to reach me: in my github or my discord(_grinn_)
+- 📫 How to reach me: in my github or my discord(_ grinn_)
 - ⚡ Fun fact: I am not in captivity
 
 
