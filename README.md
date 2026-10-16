@@ -2,7 +2,7 @@
 - 👀 I like Rust
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: in my github or my discord(_ grinn_)
-- ⚡ Fun fact: I thin i ate rusty nail
+- ⚡ Fun fact: I think I ate rusty nail
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1nns&show_icons=true&theme=highcontrast)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=chartreuse-dark)
