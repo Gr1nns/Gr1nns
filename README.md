@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gr1nns
-- 👀 I’m interested in learn new things
-- 🌱 I’m currently learning c++
+- 👀 I like Rust
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: in my github or my discord(_ grinn_)
-- ⚡ Fun fact: I exist beyond the time and space
+- ⚡ Fun fact: I thin i ate rusty nail
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1nns&show_icons=true&theme=highcontrast)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1nns&layout=compact&theme=chartreuse-dark)
